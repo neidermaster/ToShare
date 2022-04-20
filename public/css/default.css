@@ -1,0 +1,176 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/03/2020, 10:40:01 p. m.
+    Author     : Neider
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Aria,Helvetica, sans-serif;
+    background-color: #eee;
+}
+
+#img-ayuda{
+    margin: auto;
+    width: 19em;
+    height: 10em;
+}
+
+#asterisco{
+    color: #ac2323;
+}
+
+.description{
+    color: blue;
+    font-size: smaller;
+}
+
+.error{
+    color: #ac2323;
+}
+
+.fila_logos{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.fila_titulo{
+    margin: auto;
+    width: 40em;
+    height: 2em;
+    display: flex;
+    text-align: center;
+}
+
+.logo2{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    float:left;
+}
+
+
+.panel_ayuda{
+    margin: auto;
+    vertical-align: central;
+    /*text-align: center;    */
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    width: 40em;
+    height: 7em;
+    text-align: left;
+    border-radius: 0.5em;
+    /*background-color: burlywood;*/
+}
+
+/*Division 3 botones de consulatas*/
+.panel_btn-form-action{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    height: 2.5em;
+    border-radius: 0.5em;
+    /*background-color: activecaption;*/
+}
+
+.panel-header{
+    margin: auto;
+    margin-top: 1em;    
+    text-align: center;
+    width: 100%;
+    height: 14em;
+    border-radius: 0.5em;
+    /*background-color: aqua;*/
+}
+
+.panel-footer{
+    margin: auto;
+    padding: 0.5em;
+    font-size: 0.8em;
+    width: 90%;
+    height: 6.5em;
+    border-radius: 0.5em;
+    background-color: #f4f6f6;    
+}
+
+.panel_form-group{
+    margin: auto;
+    margin-bottom: 0.1em;
+    width: 45%;
+    height: 15.6em;
+    text-align: center;
+    align-items: center;
+    border-radius: 0.5em;    
+    /*background-color: #ac2323;*/
+}
+
+.panel_captcha{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    /*background-color: background;*/
+}
+
+.section_btn-action{
+    margin: auto;
+    align-items: center;
+    width: 13em;
+    border-radius: 0.5em;    
+    float: left;
+    /*background-color: coral;*/
+}
+
+.section_img-ayuda{
+    margin: auto;
+    display: flex;
+    vertical-align: central;
+    align-items: center;
+    width: 20em;
+    height: 16em;
+    float: left;
+    border-radius: 0.5em;
+    /*background-color: #ac2323;*/
+}
+
+.section_img-captcha{
+    margin: auto;
+    width: 20em;
+    align-items: center;
+    /*background-color: beige;*/
+    /*float: left;*/
+}
+/*Seccion que agrupa bloque de labels y textos*/
+.section-form{
+    margin: auto;
+    
+    text-align: left;
+    align-items: center;
+    width: 100%;
+    height: 16em;
+    float: left;
+    border-radius: 0.5em; 
+    /*background-color: beige;*/
+}
+
+.titulo{
+    margin: auto;
+    width: 40em;
+    height: 3em;
+    border-radius: 0.5em;
+    background-color: #f4f6f6;
+    flex: left;
+}

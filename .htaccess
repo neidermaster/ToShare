@@ -1,0 +1,9 @@
+# Este .htacces 
+# dentro de la carpeta /public
+# permite que en la url no sea necesario escribir /public
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^$ public/ [L]
+RewriteRule (.*)$ public/$1 [L]
+</IfModule>

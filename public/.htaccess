@@ -1,0 +1,18 @@
+# Este fichero redirecciona todo a index.php siempre
+# en caso de que la ruta de la url no exista
+#desactiva las multiples vistas
+# Rewrite on permite la reescritura de la url
+# RewriteBase es la carpeta a dode siempre se redireccionara
+# RewriteCond Es la condicion para redireccionar
+# Rewrite Rule Es la regla de como se mostrara la ruta en web
+# Si el archivo existe se cargara, sino sera redireccionado a index.php de la ruta base
+
+<IfModule mod_rewrite.c>
+Options -Multiviews 
+RewriteEngine On
+RewriteBase /consultaWeb/public
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
+</IfModule>
