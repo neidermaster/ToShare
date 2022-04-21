@@ -3,9 +3,9 @@
 EN / ES
 
 # ENGLISH
-  ##################################
+##################################
 
-External Consultation Module for the Document Management System ORFEO Version 3.8 or later and 7.0
+# External Consultation Module for the Document Management System ORFEO Version 3.8 or later and 7.0
 
 This consultation module was developed as part of the improvement for the Document Management System ORFEO
 for the Administrative Department of the Public Space Ombudsman.
@@ -73,9 +73,10 @@ webquery/app/config/config.php
   
   
   
-  #SPANISH
-  ##################################
-Módulo Externo de Consulta para el Sistema de Gestión Documental ORFEO Versión 3.8 o posteriores y 7.0
+# SPANISH
+##################################
+
+# Módulo Externo de Consulta para el Sistema de Gestión Documental ORFEO Versión 3.8 o posteriores y 7.0
 
 Este módulo de consulta fue desarrollado como parte de la mejora para el Sistema de Gestión Documental ORFEO
 para el Departamento Administrativo de la Defensoría del Espacio Público.
