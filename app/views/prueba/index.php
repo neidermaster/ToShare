@@ -1,6 +1,11 @@
 <?php
 /**
- * Modulo de consulta Web para atencion a Ciudadanos.
+ * @navendano
+ * Defesnsoria del espacio publico
+ * Modificación de seguridad
+ * @fecha 2020/04
+ * 
+ *  Modulo de consulta Web para atencion a Ciudadanos.
  * @autor Sebastian Ortiz
  * @fecha 2012/06
  *
@@ -50,10 +55,7 @@ Index default Main
                            onkeypress="return alpha(event, numbers + letters)"
                            placeholder="Digite el Código"
                            required>
-                    <!--<label for="captcha">¿Eres humano?</label>
-                    <a id="asterisco">*</a>
-                    <div class="g-recaptcha panel_captcha" data-sitekey="6LdoEPMUAAAAALvai64kZJ0aosGIr0p9djjgrNWC">
-                    </div>-->
+                   
                 </div>
                 <div class="section_img-ayuda"> <!-- Seccion 2 Ayuda-->
                     <img id="img-ayuda" src='<?php echo $datos['ayudaConsulta'] ?>'>

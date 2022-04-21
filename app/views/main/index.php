@@ -44,7 +44,7 @@ Index default Main
                            required>
                     <label for="captcha">¿Eres humano?</label>
                     <a id="asterisco">*</a>
-                    <div class="g-recaptcha panel_captcha" data-sitekey="6Ld2YfIUAAAAAPJ3IQrXTPhTV426_FrOxIdQxKbh">
+                    <div class="g-recaptcha panel_captcha" data-sitekey="XXXXXXXXXXXXXXXXXXXXXXXXXXXXX">
                     </div>
                 </div>                
             </div><!-- Fin Division 2-->
