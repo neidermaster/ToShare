@@ -13,8 +13,8 @@ for the Administrative Department of the Public Space Ombudsman.
 * Requesting Office: File
 * Head of Applicant Office: Luz Stella Bahamón
 * Office in Charge: Systems Office
-* Head of Office: Ing. Claudia Paipa
-* Development leader: Ing. Neider Avendaño
+* Head of Office: Engineer Claudia Paipa
+* Development leader: Engineer Neider Avendaño
 * Original development: 2013
 * Original License: GPL
 * Deployment date: April 2020
