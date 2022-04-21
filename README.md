@@ -10,14 +10,14 @@ External Consultation Module for the Document Management System ORFEO Version 3.
 This consultation module was developed as part of the improvement for the Document Management System ORFEO
 for the Administrative Department of the Public Space Ombudsman.
 
-Requesting Office: File
-Head of Applicant Office: Luz Stella Bahamón
-Office in Charge: Systems Office
-Head of Office: Ing. Claudia Paipa
-Development leader: Ing. Neider Avendaño
-Original development: 2013
-License: GPL
-Deployment date: April 2020
+* Requesting Office: File
+* Head of Applicant Office: Luz Stella Bahamón
+* Office in Charge: Systems Office
+* Head of Office: Ing. Claudia Paipa
+* Development leader: Ing. Neider Avendaño
+* Original development: 2013
+* Original License: GPL
+* Deployment date: April 2020
 
 The original module was within the same application and after having identified security problems
 it was decided to modify it so that it would be totally independent of the application server in the production environment.
@@ -71,6 +71,8 @@ webquery/app/config/config.php
   - Status of the process
   - Attached documents (these with the option to preview them on screen)
   
+  
+  
   #SPANISH
   ##################################
 Módulo Externo de Consulta para el Sistema de Gestión Documental ORFEO Versión 3.8 o posteriores y 7.0
@@ -78,14 +80,14 @@ Módulo Externo de Consulta para el Sistema de Gestión Documental ORFEO Versió
 Este módulo de consulta fue desarrollado como parte de la mejora para el Sistema de Gestión Documental ORFEO
 para el Departamento Administrativo de la Defensoría del Espacio Público.
 
-# Oficina Solicitante: Archivo
-# Jefe Oficina solicitante: Luz Stella Bahamón
-# Oficina Encargada: Oficina de Sistemas
-# Jefe de Oficina: Ing. Claudia Paipa
-# Líder de desarrollo: Ing. Neider Avendaño
-# Desarrollo original: 2013
-# Licencia: GPL
-# Fecha despliegue: abril 2020
+* Oficina Solicitante: Archivo
+* Jefe Oficina solicitante: Luz Stella Bahamón
+* Oficina Encargada: Oficina de Sistemas
+* Jefe de Oficina: Ing. Claudia Paipa
+* Líder de desarrollo: Ing. Neider Avendaño
+* Desarrollo original: 2013
+* Licencia Original: GPL
+* Fecha despliegue: abril 2020
 
 EL Módulo original se encontraba dentro del mismo aplicativo y luego de haber identificado problemas de seguridad
 se decidió modificarlo de manera que fuese totalmente independiente del servidor de aplicaciones en ambiente de producción.
