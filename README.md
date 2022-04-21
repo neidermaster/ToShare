@@ -16,6 +16,7 @@ Office in Charge: Systems Office
 Head of Office: Ing. Claudia Paipa
 Development leader: Ing. Neider Avendaño
 Original development: 2013
+License: GPL
 Deployment date: April 2020
 
 The original module was within the same application and after having identified security problems
@@ -77,13 +78,14 @@ Módulo Externo de Consulta para el Sistema de Gestión Documental ORFEO Versió
 Este módulo de consulta fue desarrollado como parte de la mejora para el Sistema de Gestión Documental ORFEO
 para el Departamento Administrativo de la Defensoría del Espacio Público.
 
-Oficina Solicitante: Archivo
-Jefe Oficina solicitante: Luz Stella Bahamón
-Oficina Encargada: Oficina de Sistemas
-Jefe de Oficina: Ing. Claudia Paipa
-Líder de desarrollo: Ing. Neider Avendaño
-Desarrollo original: 2013
-Fecha despliegue: abril 2020
+# Oficina Solicitante: Archivo
+# Jefe Oficina solicitante: Luz Stella Bahamón
+# Oficina Encargada: Oficina de Sistemas
+# Jefe de Oficina: Ing. Claudia Paipa
+# Líder de desarrollo: Ing. Neider Avendaño
+# Desarrollo original: 2013
+# Licencia: GPL
+# Fecha despliegue: abril 2020
 
 EL Módulo original se encontraba dentro del mismo aplicativo y luego de haber identificado problemas de seguridad
 se decidió modificarlo de manera que fuese totalmente independiente del servidor de aplicaciones en ambiente de producción.
